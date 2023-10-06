@@ -1,0 +1,23 @@
+{
+  "name": "server_nodejs",
+  "version": "1.0.0",
+  "description": "Servidor completo en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisMeraz01/server_repositorioCompleto.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs"
+  ],
+  "author": "Luis Angel Meraz Barajas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisMeraz01/server_repositorioCompleto/issues"
+  },
+  "homepage": "https://github.com/LuisMeraz01/server_repositorioCompleto#readme"
+}
